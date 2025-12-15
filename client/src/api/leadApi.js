@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5001/api/leads";
+const BASE_URL = "https://lead-management-system-gya5.onrender.com";
 
 // Get all leads
 export const getLeads = async () => {
