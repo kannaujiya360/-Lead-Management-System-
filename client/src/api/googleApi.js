@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5001/api/google";
+const BASE_URL = "https://lead-management-system-gya5.onrender.com";
 
 // Fetch a new dummy Google lead
 export const fetchGoogleLead = async () => {
