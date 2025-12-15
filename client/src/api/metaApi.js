@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:5001/api/meta";
+const BASE_URL = "https://lead-management-system-gya5.onrender.com";
 
 // Fetch a new dummy Meta lead
 export const fetchMetaLead = async () => {
